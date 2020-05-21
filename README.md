@@ -2,6 +2,12 @@
 
 Analysis of affect of Covid-19 on 2020 conferences around the globe
 
+## Context as per Kaggle: 
+
+The current COVID-19 situation has not only taken a toll on the health of the people but has also brought a lot of economic loss. Many companies and organizations have either cancelled or postponed major events and conferences,
+
+Original Source of data: https://www.lola.com/blog/conferences-cancelled-due-to-coronavirus
+
 Kaggle Dataset: https://www.kaggle.com/parulpandey/2020-conferences-cancelled-due-to-coronavirus
 
 Kaggle Notebook: https://www.kaggle.com/chetnakhanna/affect-of-covid-19-on-2020-conferences
